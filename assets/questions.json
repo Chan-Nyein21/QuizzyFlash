@@ -1,0 +1,556 @@
+[
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": [
+      "K2",
+      "Everest",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "correct_answer": "Everest",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What color are bananas when ripe?",
+    "options": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "correct_answer": "Yellow",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is 5 + 7?",
+    "options": [
+      "13",
+      "10",
+      "14",
+      "12"
+    ],
+    "correct_answer": "12",
+    "topic": "General Knowledge",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Tolkien",
+      "Hemingway",
+      "Shakespeare",
+      "Austen"
+    ],
+    "correct_answer": "Shakespeare",
+    "topic": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Avocado",
+      "Tomato",
+      "Pepper",
+      "Lettuce"
+    ],
+    "correct_answer": "Avocado",
+    "topic": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which element is commonly used in thermometers?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Aluminum",
+      "Mercury"
+    ],
+    "correct_answer": "Mercury",
+    "topic": "General Knowledge",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "correct_answer": "Astana",
+    "topic": "General Knowledge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": [
+      "1905",
+      "1912",
+      "1920",
+      "1898"
+    ],
+    "correct_answer": "1912",
+    "topic": "General Knowledge",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which novel begins with the line, 'Call me Ishmael'?",
+    "options": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "Moby-Dick",
+      "War and Peace"
+    ],
+    "correct_answer": "Moby-Dick",
+    "topic": "General Knowledge",
+    "difficulty": "Hard"
+  },
+
+  {
+    "question": "What is H2O more commonly known as?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Water",
+      "Steam"
+    ],
+    "correct_answer": "Water",
+    "topic": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "8"
+    ],
+    "correct_answer": "8",
+    "topic": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What gas do humans need to breathe to survive?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_answer": "Oxygen",
+    "topic": "Science",
+    "difficulty": "Easy"
+  },
+
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct_answer": "Carbon Dioxide",
+    "topic": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Isaac Newton",
+      "Louis Pasteur"
+    ],
+    "correct_answer": "Alexander Fleming",
+    "topic": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What planet comes after Earth in the solar system?",
+    "options": [
+      "Saturn",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct_answer": "Mars",
+    "topic": "Science",
+    "difficulty": "Medium"
+  },
+
+  {
+    "question": "How many bones are there in the adult human body?",
+    "options": [
+      "206",
+      "201",
+      "210",
+      "190"
+    ],
+    "correct_answer": "206",
+    "topic": "Science",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Who developed the general theory of relativity?",
+    "options": [
+      "Tesla",
+      "Newton",
+      "Einstein",
+      "Curie"
+    ],
+    "correct_answer": "Einstein",
+    "topic": "Science",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Lungs",
+      "Stomach"
+    ],
+    "correct_answer": "Liver",
+    "topic": "Science",
+    "difficulty": "Hard"
+  },
+
+
+  {
+    "question": "Which country is shaped like a boot?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Greece",
+      "Turkey"
+    ],
+    "correct_answer": "Italy",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "options": [
+      "London",
+      "Manchester",
+      "Edinburgh",
+      "Cardiff"
+    ],
+    "correct_answer": "London",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which ocean is on the west coast of the United States?",
+    "options": [
+      "Atlantic",
+      "Pacific",
+      "Indian",
+      "Arctic"
+    ],
+    "correct_answer": "Pacific",
+    "topic": "Geography",
+    "difficulty": "Easy"
+  },
+
+  {
+    "question": "Which river flows through Paris?",
+    "options": [
+      "Danube",
+      "Seine",
+      "Rhine",
+      "Loire"
+    ],
+    "correct_answer": "Seine",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which continent is Egypt part of?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "correct_answer": "Africa",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which U.S. state shares a border with only one other state?",
+    "options": [
+      "Alaska",
+      "Hawaii",
+      "Rhode Island",
+      "Maine"
+    ],
+    "correct_answer": "Maine",
+    "topic": "Geography",
+    "difficulty": "Medium"
+  },
+
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Malta",
+      "Monaco",
+      "San Marino",
+      "Vatican City"
+    ],
+    "correct_answer": "Vatican City",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which country has the most islands in the world?",
+    "options": [
+      "Sweden",
+      "Indonesia",
+      "Canada",
+      "Philippines"
+    ],
+    "correct_answer": "Sweden",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which country has the highest number of official languages?",
+    "options": [
+      "India",
+      "Switzerland",
+      "South Africa",
+      "Zimbabwe"
+    ],
+    "correct_answer": "Zimbabwe",
+    "topic": "Geography",
+    "difficulty": "Hard"
+  },
+
+  {
+    "question": "Which superhero is known as the Dark Knight?",
+    "options": [
+      "Superman",
+      "Iron Man",
+      "Batman",
+      "Spiderman"
+    ],
+    "correct_answer": "Batman",
+    "topic": "Movies",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which movie features a cowboy doll named Woody?",
+    "options": [
+      "Finding Nemo",
+      "The Incredibles",
+      "Toy Story",
+      "Cars"
+    ],
+    "correct_answer": "Toy Story",
+    "topic": "Movies",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which character famously says 'Why so serious?' in a Batman movie?",
+    "options": [
+      "Batman",
+      "Two-Face",
+      "Riddler",
+      "Joker"
+    ],
+    "correct_answer": "Joker",
+    "topic": "Movies",
+    "difficulty": "Easy"
+  },
+
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "correct_answer": "Christopher Nolan",
+    "topic": "Movies",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who played Jack in the movie 'Titanic'?",
+    "options": [
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Johnny Depp"
+    ],
+    "correct_answer": "Leonardo DiCaprio",
+    "topic": "Movies",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which movie is set in the fictional African country of Wakanda?",
+    "options": [
+      "Avengers: Endgame",
+      "Doctor Strange",
+      "Black Panther",
+      "Captain America: Civil War"
+    ],
+    "correct_answer": "Black Panther",
+    "topic": "Movies",
+    "difficulty": "Medium"
+  },
+
+  {
+    "question": "Which movie won Best Picture at the Oscars in 2020?",
+    "options": [
+      "1917",
+      "Joker",
+      "Parasite",
+      "Ford v Ferrari"
+    ],
+    "correct_answer": "Parasite",
+    "topic": "Movies",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which 1982 sci-fi film features a character named Deckard hunting replicants?",
+    "options": [
+      "The Matrix",
+      "Blade Runner",
+      "Alien",
+      "Total Recall"
+    ],
+    "correct_answer": "Blade Runner",
+    "topic": "Movies",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which director is known for the film '2001: A Space Odyssey'?",
+    "options": [
+      "Ridley Scott",
+      "Stanley Kubrick",
+      "Alfred Hitchcock",
+      "James Cameron"
+    ],
+    "correct_answer": "Stanley Kubrick",
+    "topic": "Movies",
+    "difficulty": "Hard"
+  },
+
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Programming Unit",
+      "Core Processing Unit"
+    ],
+    "correct_answer": "Central Processing Unit",
+    "topic": "Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What device do you use to click, drag, and select items on a computer screen?",
+    "options": [
+      "Keyboard",
+      "Touchpad",
+      "Monitor",
+      "Mouse"
+    ],
+    "correct_answer": "Mouse",
+    "topic": "Technology",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which company is best known for the Windows operating system?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Google",
+      "Microsoft"
+    ],
+    "correct_answer": "Microsoft",
+    "topic": "Technology",
+    "difficulty": "Easy"
+  },
+
+  {
+    "question": "Which company developed the Chrome browser?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Mozilla",
+      "Google"
+    ],
+    "correct_answer": "Google",
+    "topic": "Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "correct_answer": "Hyper Text Markup Language",
+    "topic": "Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "options": [
+      "2005",
+      "2008",
+      "2010",
+      "2007"
+    ],
+    "correct_answer": "2007",
+    "topic": "Technology",
+    "difficulty": "Medium"
+  },
+
+  {
+    "question": "What was the first programming language?",
+    "options": [
+      "FORTRAN",
+      "COBOL",
+      "Assembly",
+      "Ada"
+    ],
+    "correct_answer": "FORTRAN",
+    "topic": "Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What programming language is known for its use in artificial intelligence and its use of indentation?",
+    "options": [
+      "Java",
+      "Python",
+      "C++",
+      "Ruby"
+    ],
+    "correct_answer": "Python",
+    "topic": "Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which early computer is considered the first general-purpose electronic digital computer?",
+    "options": [
+      "ENIAC",
+      "Colossus",
+      "UNIVAC",
+      "Z3"
+    ],
+    "correct_answer": "ENIAC",
+    "topic": "Technology",
+    "difficulty": "Hard"
+  }
+  
+]
